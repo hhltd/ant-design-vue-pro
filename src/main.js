@@ -4,6 +4,7 @@ import { Button } from "ant-design-vue";
 import App from "./App.vue";
 import router from "./router";
 import store from "./store";
+// 按需加载(通过配置Babel)
 // import Button from 'ant-design-vue/lib/button';
 // import 'ant-design-vue/lib/button/style';
 
