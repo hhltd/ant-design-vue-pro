@@ -1,5 +1,5 @@
 <template>
-  <div>Ant Design Vue Pro ©2021 Created by Ant HH</div>
+  <div>403</div>
 </template>
 
 <script>
