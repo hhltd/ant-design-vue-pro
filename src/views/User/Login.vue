@@ -1,13 +1,13 @@
 <template>
-  <div>登录页</div>
+  <div>
+    <div>登录页</div>
+    <p>请输入用户名</p>
+    <p>请输入密码</p>
+  </div>
 </template>
 
 <script>
-export default {
-
-}
+export default {};
 </script>
 
-<style>
-
-</style>
+<style></style>
